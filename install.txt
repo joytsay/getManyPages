@@ -1,0 +1,7 @@
+pip install icrawler
+pip install dlib-19.8.1-cp36-cp36m-win_amd64.whl
+pip install numpy scipy matplotlib ipython jupyter pandas sympy nose
+pip install -U scikit-learn
+pip install opencv-contrib-python
+pip install face_recognition
+
